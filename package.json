@@ -1,0 +1,25 @@
+{
+  "name": "cuefileparser",
+  "version": "1.0.0",
+  "description": "For parsing CUE files",
+  "main": "CUEFileParser.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teken/CUEFileParser.git"
+  },
+  "keywords": [
+    "CUE"
+  ],
+  "author": "Teken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teken/CUEFileParser/issues"
+  },
+  "homepage": "https://github.com/teken/CUEFileParser#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
