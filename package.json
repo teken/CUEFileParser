@@ -11,7 +11,8 @@
     "url": "git+https://github.com/teken/CUEFileParser.git"
   },
   "keywords": [
-    "CUE"
+    "CUE",
+    "parser"
   ],
   "author": "Teken",
   "license": "MIT",
