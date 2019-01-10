@@ -1,6 +1,6 @@
 {
   "name": "cuefileparser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "For parsing CUE files",
   "main": "CUEFileParser.js",
   "scripts": {
