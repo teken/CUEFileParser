@@ -1,10 +1,10 @@
-#CUEFileParser
+# CUEFileParser
 
 For parsing CUE files.
 
 NPM: https://www.npmjs.com/package/cuefileparser
 
-##Install
+## Install
 ```
 npm install cuefileparser
 
@@ -12,7 +12,7 @@ yarn add cuefileparser
 ```
 
 
-##Examples
+## Examples
 ```javascript
 const {CUEFileParser} = require('CUEFileParser');
 
