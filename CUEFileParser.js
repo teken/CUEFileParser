@@ -15,7 +15,7 @@ exports.CUEFileParser = class {
 		for (let i = 0; i <= lines.length -1; i++) {
 			const line = lines[i];
 			if (line.startsWith('FILE')) {
-				const result = /^FILE "([a-z1-9\. ]*)" ([a-z0-9]*)$/i.exec(line);
+				const result = /^FILE "(.*?)" ([a-z0-9]*)$/i.exec(line);
 				data.fileName = result[1];
 				data.fileFormat = result[2];
 			} else if (line.startsWith('TRACK')) {
